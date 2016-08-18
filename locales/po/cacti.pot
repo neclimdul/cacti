@@ -11257,7 +11257,7 @@ msgid "Enabling from the UI is not supported"
 msgstr ""
 
 #: ../clog_user.php:32 ../clog.php:33
-msgid "FATAL: YOU DO NO HAVE ACCESS TO THIS AREA OF CACTI"
+msgid "FATAL: YOU DO NOT HAVE ACCESS TO THIS AREA OF CACTI"
 msgstr ""
 
 #: ../graphs_items.php:257
